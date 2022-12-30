@@ -11,7 +11,6 @@ import CategoriesScreen from "./screens/CategoriesScreen";
 import MealsOverviewScreen from "./screens/MealsOverviewScreen";
 import MealDetailScreen from "./screens/MealDetailScreen";
 import FavoritesScreen from "./screens/FavoritesScreen";
-// import FavoritesContextProvider from "./store/context/favorites-context";
 import { Provider } from "react-redux";
 import { store } from "./store/redux/store";
 
