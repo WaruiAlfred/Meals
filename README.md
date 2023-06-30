@@ -8,10 +8,10 @@ This is a mobile app that enables users to track tasks. A user can create, mark 
 
 ## Installation
 
-Install my-project with yarn
+Install my-project:
 
 ```bash
-  git clone "clone url"
+  git clone ["clone url"]
   cd project
   yarn
 ```
