@@ -20,7 +20,8 @@
     ],
     "ios": {
       "buildNUmber": "1.0.0",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aldiske.mealsRecipe"
     },
     "android": {
       "versionCode": 1,
