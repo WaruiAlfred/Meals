@@ -57,7 +57,10 @@ export default function App() {
   return (
     <Fragment>
       <StatusBar style="light" />
+      {/*use context provider*/}
       {/*<FavoritesContextProvider>*/}
+
+      {/** Redux provider */}
       <Provider store={store}>
         <NavigationContainer>
           <Stack.Navigator
